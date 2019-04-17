@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 232c67a1e8ad8bd4ca2ba8313e305da0
+timeCreated: 1518348200
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Claudette aime le Chocolat
+  fontNames:
+  - Claudette aime le Chocolat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
